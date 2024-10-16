@@ -1,9 +1,4 @@
-Certainly! Below is a comprehensive and detailed documentation for both **Volatility Ventures 3.0** and **⚖️ Leverage Labyrinth 🌀**, two advanced trading simulation games implemented in Jupyter Notebooks. This documentation covers everything from installation and setup to in-depth explanations of game mechanics, mathematical models, risk metrics, visualizations, and strategic tips to enhance your gaming experience.
-
----
-
 # 📚 Comprehensive Documentation
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
